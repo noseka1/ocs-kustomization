@@ -1,3 +1,7 @@
+# DEPRECATED !!!
+
+**As of Dec 23, 2021, ocs-kustomization project is deprecated, please consider use [odf-kustomization](https://github.com/noseka1/odf-kustomization) instead.**
+
 # Kustomization for Deploying OpenShift Container Storage
 
 This kustomization makes use of [ocs-operator](https://github.com/openshift/ocs-operator) to deploy OpenShift Container Storage.
